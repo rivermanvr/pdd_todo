@@ -22,3 +22,5 @@ pdd - todo application  <- Plan, Doing, Done
     - alarms on devices
 - ordering of items in a block of items or when displayed
     can reorder easily
+- UI
+    - simple & intuitive
